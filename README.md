@@ -123,10 +123,12 @@ Mood Tracker was designed to make emotional self-reflection simple and accessibl
 **Heer Soni**  
 Computer Science Student  
 Indiana University Bloomington
+heersoni@iu.edu
 
 **Carley Rodenbush**  
 Computer Science Student  
 Indiana University Bloomington
+cjrodenb@iu.edu
 
 ---
 
