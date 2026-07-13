@@ -96,7 +96,7 @@ The app includes optional daily reminders to encourage consistent mood tracking.
 
 ## 🎯 Project Purpose
 
-Mood Tracker was designed to make emotional self-reflection simple and accessible. By allowing users to quickly record how they feel and visualize patterns over time, the app encourages greater awareness of emotional well-being and supports healthy daily habits. :contentReference[oaicite:1]{index=1}
+Mood Tracker was designed to make emotional self-reflection simple and accessible. By allowing users to quickly record how they feel and visualize patterns over time, the app encourages greater awareness of emotional well-being and supports healthy daily habits. 
 
 ## 📊 Diagrams
 <img width="663" height="793" alt="Screenshot 2026-07-13 at 4 57 23 PM" src="https://github.com/user-attachments/assets/6b0addb8-04ea-4c34-8dcd-d5590f086918" />
