@@ -1,6 +1,6 @@
 # 📱 Mood Tracker App
 
-A modern iOS application built with **SwiftUI** that helps users track their daily emotions, identify mood patterns, and develop healthy self-reflection habits. Users can quickly log their mood, add optional notes, view previous entries, analyze mood trends through charts, and receive daily reminders to check in. :contentReference[oaicite:0]{index=0}
+A modern iOS application built with **SwiftUI** that helps users track their daily emotions, identify mood patterns, and develop healthy self-reflection habits. Users can quickly log their mood, add optional notes, view previous entries, analyze mood trends through charts, and receive daily reminders to check in. 
 
 ## 👥 Contributors
 
